@@ -1,0 +1,221 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Mark Inderhees
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/rotating-posts\n"
+"POT-Creation-Date: 2009-02-20 12:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: rotating-posts.php:99
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: rotating-posts.php:100
+msgid "Comments"
+msgstr ""
+
+#: rotating-posts.php:219
+msgid "Rotating Posts Settings"
+msgstr ""
+
+#: rotating-posts.php:219 rp-admin.php:223
+msgid "Rotating Posts"
+msgstr ""
+
+#: rotating-posts.php:257
+msgid "by"
+msgstr ""
+
+#: rotating-posts.php:275
+msgid "Read more"
+msgstr ""
+
+#: rp-admin.php:9
+msgid "Number of posts"
+msgstr ""
+
+#: rp-admin.php:10
+msgid "Duration between rotations"
+msgstr ""
+
+#: rp-admin.php:11
+msgid "Display thumbnails"
+msgstr ""
+
+#: rp-admin.php:12
+msgid "Display graphic arrows"
+msgstr ""
+
+#: rp-admin.php:13
+msgid "Display date and time"
+msgstr ""
+
+#: rp-admin.php:14
+msgid "date and time format string"
+msgstr ""
+
+#: rp-admin.php:15
+msgid "Display title"
+msgstr ""
+
+#: rp-admin.php:16
+msgid "Display author"
+msgstr ""
+
+#: rp-admin.php:17
+msgid "prefix before author"
+msgstr ""
+
+#: rp-admin.php:18
+msgid "Display categories"
+msgstr ""
+
+#: rp-admin.php:19
+msgid "Display comments"
+msgstr ""
+
+#: rp-admin.php:20
+msgid "Display random posts"
+msgstr ""
+
+#: rp-admin.php:21
+msgid "Display custom field instead of post content"
+msgstr ""
+
+#: rp-admin.php:22
+msgid "Left button"
+msgstr ""
+
+#: rp-admin.php:23
+msgid "Right button"
+msgstr ""
+
+#: rp-admin.php:24
+msgid "Pause button"
+msgstr ""
+
+#: rp-admin.php:25
+msgid "Pause button pressed"
+msgstr ""
+
+#: rp-admin.php:26
+msgid "Override css"
+msgstr ""
+
+#: rp-admin.php:27
+msgid "'Read more' link text"
+msgstr ""
+
+#: rp-admin.php:29
+#, php-format
+msgid "Error in %s using default of %s"
+msgstr ""
+
+#: rp-admin.php:33
+msgid "Settings saved"
+msgstr ""
+
+#: rp-admin.php:235
+msgid "seconds"
+msgstr ""
+
+#: rp-admin.php:245
+msgid "Display options"
+msgstr ""
+
+#: rp-admin.php:248 rp-admin.php:251
+msgid "with"
+msgstr ""
+
+#: rp-admin.php:250
+#, php-format
+msgid "See WordPress document on %s"
+msgstr ""
+
+#: rp-admin.php:250
+msgid "Formatting Date and Time"
+msgstr ""
+
+#: rp-admin.php:257
+#, php-format
+msgid ""
+"If checked, add a custom field to each post with name %s and the thumbnail "
+"URL as the value."
+msgstr ""
+
+#: rp-admin.php:258 rp-admin.php:263
+#, php-format
+msgid "This can be done in the %s section when adding or editing a post."
+msgstr ""
+
+#: rp-admin.php:258 rp-admin.php:263
+msgid "Custom Fields"
+msgstr ""
+
+#: rp-admin.php:260
+#, php-format
+msgid ""
+"If checked, you can customize the CSS for Rotating Posts in your theme's CSS "
+"file. Use the %s to get started."
+msgstr ""
+
+#: rp-admin.php:260
+msgid "provided CSS"
+msgstr ""
+
+#: rp-admin.php:262
+#, php-format
+msgid ""
+"If checked, add a custom field to each post with name %s and the customized "
+"content as the value. For example, this could be used to insert an image "
+"instead of the content of your post."
+msgstr ""
+
+#: rp-admin.php:268
+msgid "Show posts from category"
+msgstr ""
+
+#: rp-admin.php:271
+msgid "Show all categories"
+msgstr ""
+
+#: rp-admin.php:277
+msgid "Change navigation buttons"
+msgstr ""
+
+#: rp-admin.php:287
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Rotating Posts"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://wordpress.org/extend/plugins/rotating-posts/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Easily create customizable rotating posts like those seen on popular news "
+"sites."
+msgstr ""
+
+#. Author of an extension
+msgid "Mark Inderhees"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://mark.inderhees.net"
+msgstr ""

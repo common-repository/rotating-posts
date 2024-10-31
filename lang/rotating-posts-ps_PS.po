@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Mark Inderhees
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr "[]"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/rotating-posts\n"
+"POT-Creation-Date: 2009-02-20 12:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: rotating-posts.php:99
+#, php-format
+msgid "Posted in %s"
+msgstr "¶ò§téð íñ %s[!]"
+
+#: rotating-posts.php:100
+msgid "Comments"
+msgstr "Çømméñt§[]"
+
+#: rotating-posts.php:219
+msgid "Rotating Posts Settings"
+msgstr "R¤tåtìñg ¶ó§t§ $éttîñg§[!!!]"
+
+#: rotating-posts.php:219 rp-admin.php:223
+msgid "Rotating Posts"
+msgstr "R¤tãtíñg ¶ò§t§[!]"
+
+#: rotating-posts.php:257
+msgid "by"
+msgstr "þÿ[]"
+
+#: rotating-posts.php:275
+msgid "Read more"
+msgstr "Réåð mô®ë[]"
+
+#: rp-admin.php:9
+msgid "Number of posts"
+msgstr "Ñµmþè® óf pô§t§[!]"
+
+#: rp-admin.php:10
+msgid "Duration between rotations"
+msgstr "Ðû®ãtìóñ þètwêéñ ®òtátîöñ§[!!!]"
+
+#: rp-admin.php:11
+msgid "Display thumbnails"
+msgstr "Ðî§plªÿ thúmþñãìl§[!!]"
+
+#: rp-admin.php:12
+msgid "Display graphic arrows"
+msgstr "Ðï§plªý g®âphí© æ®®ów§[!!!]"
+
+#: rp-admin.php:13
+msgid "Display date and time"
+msgstr "Ðî§plªÿ ðàtë äñð tîmè[!!]"
+
+#: rp-admin.php:14
+msgid "date and time format string"
+msgstr "ðàtê ãñð tímê fø®mãt §t®îñg[!!!!]"
+
+#: rp-admin.php:15
+msgid "Display title"
+msgstr "Ðí§pläÿ tîtlë[!]"
+
+#: rp-admin.php:16
+msgid "Display author"
+msgstr "Ðî§plãý âúth¤®[!]"
+
+#: rp-admin.php:17
+msgid "prefix before author"
+msgstr "p®èfìx þèfõ®è àüthò®[!!]"
+
+#: rp-admin.php:18
+msgid "Display categories"
+msgstr "Ðî§plâÿ ©ætëgõ®îë§[!!]"
+
+#: rp-admin.php:19
+msgid "Display comments"
+msgstr "Ðí§plåÿ ©ômmëñt§[!]"
+
+#: rp-admin.php:20
+msgid "Display random posts"
+msgstr "Ðí§plæÿ ®æñðôm pô§t§[!!]"
+
+#: rp-admin.php:21
+msgid "Display custom field instead of post content"
+msgstr "Ðí§plåý ¢ü§t¤m fìêlð ìñ§téäð ¤f p¤§t ©¤ñtéñt[!!!!!!!]"
+
+#: rp-admin.php:22
+msgid "Left button"
+msgstr "£èft þµttöñ[]"
+
+#: rp-admin.php:23
+msgid "Right button"
+msgstr "Rìght þüttøñ[!]"
+
+#: rp-admin.php:24
+msgid "Pause button"
+msgstr "¶áú§ê þùttóñ[!]"
+
+#: rp-admin.php:25
+msgid "Pause button pressed"
+msgstr "¶âû§é þüttóñ p®ê§§ëð[!!]"
+
+#: rp-admin.php:26
+msgid "Override css"
+msgstr "Øvé®®îðë ç§§[!]"
+
+#: rp-admin.php:27
+msgid "'Read more' link text"
+msgstr "'Rêåð mó®é' líñk têxt[!!]"
+
+#: rp-admin.php:29
+#, php-format
+msgid "Error in %s using default of %s"
+msgstr "Ê®®ò® íñ %s û§íñg ðëfãùlt õf %s[!!!!]"
+
+#: rp-admin.php:33
+msgid "Settings saved"
+msgstr "$èttïñg§ §âvèð[!]"
+
+#: rp-admin.php:235
+msgid "seconds"
+msgstr "§èçôñð§[]"
+
+#: rp-admin.php:245
+msgid "Display options"
+msgstr "Ðì§plàý ¤ptì¤ñ§[!]"
+
+#: rp-admin.php:248 rp-admin.php:251
+msgid "with"
+msgstr "wìth[]"
+
+#: rp-admin.php:250
+#, php-format
+msgid "See WordPress document on %s"
+msgstr "§èé Wô®ð¶®é§§ ðóçûmèñt óñ %s[!!!!]"
+
+#: rp-admin.php:250
+msgid "Formatting Date and Time"
+msgstr "F¤®máttîñg Ðªtè æñð Tïmè[!!!]"
+
+#: rp-admin.php:257
+#, php-format
+msgid ""
+"If checked, add a custom field to each post with name %s and the thumbnail "
+"URL as the value."
+msgstr ""
+"Ïf çhèçkéð, àðð à ¢ù§tøm fíélð tö èä©h pò§t wíth ñæmë %s ãñð thê thúmþñàîl "
+"ÛR£ ª§ thè vâlùê.[!!!!!!!!!!!!!!!!!!]"
+
+#: rp-admin.php:258 rp-admin.php:263
+#, php-format
+msgid "This can be done in the %s section when adding or editing a post."
+msgstr "Thì§ ¢ªñ þê ð¤ñê ïñ thê %s §è©tïòñ whèñ áððîñg ó® ëðïtíñg ã pó§t.[!!!!!!!!!!!]"
+
+#: rp-admin.php:258 rp-admin.php:263
+msgid "Custom Fields"
+msgstr "Çü§tôm Fíêlð§[!]"
+
+#: rp-admin.php:260
+#, php-format
+msgid ""
+"If checked, you can customize the CSS for Rotating Posts in your theme's CSS "
+"file. Use the %s to get started."
+msgstr ""
+"Íf ¢hë©kèð, ýòú ©äñ ©µ§t¤mízê thë Ç$$ fô® R¤tâtïñg ¶ô§t§ îñ ÿöú® thémê'§ Ç§$ "
+"fílë. Ü§é thè %s tó gêt §tä®têð.[!!!!!!!!!!!!!!!!!!!!!]"
+
+#: rp-admin.php:260
+msgid "provided CSS"
+msgstr "p®òvíðéð Ç$§[!]"
+
+#: rp-admin.php:262
+#, php-format
+msgid ""
+"If checked, add a custom field to each post with name %s and the customized "
+"content as the value. For example, this could be used to insert an image "
+"instead of the content of your post."
+msgstr ""
+"Ìf ¢hë©kéð, ªðð â ¢ù§tôm fìélð tó éå©h pø§t wìth ñàmê %s ªñð thè çü§tómízèð "
+"çøñtëñt ª§ thé vàlûè. Fõ® éxåmplé, thí§ ¢õùlð þè ù§èð t¤ ìñ§è®t ãñ ìmàgë "
+"ìñ§tëæð óf thè çóñtêñt õf ÿ¤ü® pø§t.[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]"
+
+#: rp-admin.php:268
+msgid "Show posts from category"
+msgstr "$hòw pó§t§ f®òm çätègò®ÿ[!!!]"
+
+#: rp-admin.php:271
+msgid "Show all categories"
+msgstr "$h¤w ªll ©ãtëgò®ïè§[!!]"
+
+#: rp-admin.php:277
+msgid "Change navigation buttons"
+msgstr "Çhãñgé ñávìgªtíøñ þùttöñ§[!!!]"
+
+#: rp-admin.php:287
+msgid "Save Changes"
+msgstr "§åvè Çhâñgë§[!]"
+
+#. Plugin Name of an extension
+msgid "Rotating Posts"
+msgstr "Rötátìñg ¶ò§t§[!]"
+
+#. Plugin URI of an extension
+msgid "http://wordpress.org/extend/plugins/rotating-posts/"
+msgstr "http://wò®ðp®ë§§.¤®g/èxtèñð/plügîñ§/®õtätïñg-pö§t§/[!!!!!!!!]"
+
+#. Description of an extension
+msgid ""
+"Easily create customizable rotating posts like those seen on popular news "
+"sites."
+msgstr ""
+"Ëã§ílý ç®éàtë ©ù§t¤mìzâþlè ®ötãtíñg pò§t§ lîké th¤§ë §êêñ øñ p¤pùlä® ñêw§ "
+"§íté§.[!!!!!!!!!!!!!!!]"
+
+#. Author of an extension
+msgid "Mark Inderhees"
+msgstr "Må®k Ïñðé®hèë§[!]"
+
+#. Author URI of an extension
+msgid "http://mark.inderhees.net"
+msgstr "http://mä®k.îñðé®héè§.ñét[!!!]"
